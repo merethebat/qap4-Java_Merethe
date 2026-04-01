@@ -30,3 +30,8 @@ Answering the following questions for the assignment.
 3) no
 4) no
 5) I'd say each of the problems were a 3.5/5 to 4/5 in difficulty. Doing this, I think I'd be more confident tackling a similar assignment.
+
+<img width="1258" height="229" alt="Screenshot 2026-03-31 at 10 23 47 PM" src="https://github.com/user-attachments/assets/f473f4bf-cc8a-447d-ae6e-7d22a9c16d1e" />
+
+
+   
