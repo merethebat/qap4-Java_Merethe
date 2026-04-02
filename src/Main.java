@@ -18,7 +18,7 @@ public class Main {
 
         DrugFileRepository drugRepo = new DrugFileRepository(DRUG_FILE);
 
-        // try to create DB repo (may fail if not set up)
+        // try to create DB repo 
         PatientDbRepository patientRepo = null;
 
         try {
