@@ -8,7 +8,7 @@ public class Main {
     // file for drugs
     private static final String DRUG_FILE = "drugs.txt";
 
-    // database info (may or may not work depending on setup)
+    // database info 
     private static final String DB_URL = "jdbc:postgresql://localhost:5432/your_database";
     private static final String DB_USER = "your_username";
     private static final String DB_PASS = "your_password";
